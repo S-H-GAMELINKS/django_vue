@@ -3,3 +3,4 @@ DjangoWebpack/__pycache__/
 todos/__pycache__/
 todos/migrations/__pycache__/
 static/node_modules
+static/index.js
