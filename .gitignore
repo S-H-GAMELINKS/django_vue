@@ -1,2 +1,3 @@
 db.sqlite3
 DjangoWebpack/__pycache__/
+todos/__pycache__/
