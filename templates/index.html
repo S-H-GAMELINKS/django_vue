@@ -1,9 +1,11 @@
 <html>
     <body>
         {% load static %}
+        {% verbatim %}
         <div class="app">
             {{ message }}
         </div>
+        {% endverbatim %}
         <script src="{% static "index.js" %}"></script>
     </body>
 </html>

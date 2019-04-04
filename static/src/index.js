@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 Vue.use(Bootstrap);
 
 const app = new Vue({
-    el: 'app',
+    el: '.app',
     data: function() {
         return {
             message: 'Hello Vue.js!'
