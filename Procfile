@@ -1,0 +1,1 @@
+web: gunicorn django-webpack-vue.wsgi --log-file-
